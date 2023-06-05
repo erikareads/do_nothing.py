@@ -1,0 +1,10 @@
+[project]
+name = "do_nothing"
+version = "0.0.2"
+description = "A gradual automation scripting framework."
+requires-python = ">=3.11"
+license = {file = "LICENSE"}
+authors = [{name = "Erika Rowland", email = "accounts@erikarowland.com"}]
+
+[tool.setuptools]
+packages = ["do_nothing"]
